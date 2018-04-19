@@ -1,0 +1,6 @@
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\AdvancedMath4238\AdvancedMath4238\bin\Debug\AdvancedMath4238.dll
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\AdvancedMath4238\AdvancedMath4238\bin\Debug\AdvancedMath4238.pdb
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\AdvancedMath4238\AdvancedMath4238\obj\Debug\AdvancedMath4238.csprojResolveAssemblyReference.cache
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\AdvancedMath4238\AdvancedMath4238\obj\Debug\AdvancedMath4238.csproj.CoreCompileInputs.cache
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\AdvancedMath4238\AdvancedMath4238\obj\Debug\AdvancedMath4238.dll
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\AdvancedMath4238\AdvancedMath4238\obj\Debug\AdvancedMath4238.pdb

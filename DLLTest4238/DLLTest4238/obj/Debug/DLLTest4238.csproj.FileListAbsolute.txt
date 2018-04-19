@@ -1,0 +1,15 @@
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\DLLTest4238\DLLTest4238\bin\Debug\DLLTest4238.exe.config
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\DLLTest4238\DLLTest4238\bin\Debug\DLLTest4238.exe
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\DLLTest4238\DLLTest4238\bin\Debug\DLLTest4238.pdb
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\DLLTest4238\DLLTest4238\obj\Debug\DLLTest4238.csprojResolveAssemblyReference.cache
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\DLLTest4238\DLLTest4238\obj\Debug\DLLTest4238.csproj.CoreCompileInputs.cache
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\DLLTest4238\DLLTest4238\obj\Debug\DLLTest4238.exe
+D:\Documents\Swinburne\Diploma\6 Friday 8.30-11.30\Week 6 (13.04)\DLLTest4238\DLLTest4238\obj\Debug\DLLTest4238.pdb
+C:\Users\STUDENT\Desktop\Week 6 Reusable Code\DLLTest4238\DLLTest4238\bin\Debug\DLLTest4238.exe.config
+C:\Users\STUDENT\Desktop\Week 6 Reusable Code\DLLTest4238\DLLTest4238\bin\Debug\DLLTest4238.exe
+C:\Users\STUDENT\Desktop\Week 6 Reusable Code\DLLTest4238\DLLTest4238\bin\Debug\DLLTest4238.pdb
+C:\Users\STUDENT\Desktop\Week 6 Reusable Code\DLLTest4238\DLLTest4238\obj\Debug\DLLTest4238.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\Week 6 Reusable Code\DLLTest4238\DLLTest4238\obj\Debug\DLLTest4238.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\Week 6 Reusable Code\DLLTest4238\DLLTest4238\obj\Debug\DLLTest4238.csproj.CopyComplete
+C:\Users\STUDENT\Desktop\Week 6 Reusable Code\DLLTest4238\DLLTest4238\obj\Debug\DLLTest4238.exe
+C:\Users\STUDENT\Desktop\Week 6 Reusable Code\DLLTest4238\DLLTest4238\obj\Debug\DLLTest4238.pdb
